@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem ;
+  min-height: 100vh;
+  padding: 5rem;
+}
+
+.text-container{
+  background-color: #eee;
+  border-radius: 2rem;
+  padding: 5rem;
+}
+
+.text{
+  font-size: 1.1rem;
+  font-family: sans-serif;
+}
+button{
+  border: none;
+  padding: 10px 1rem;
+}
+
+.dark {
+  background-color: black;
+}
+
+.light{
+  background-color: white;
+}

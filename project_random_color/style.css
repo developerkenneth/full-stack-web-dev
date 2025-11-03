@@ -1,0 +1,11 @@
+.grid{
+
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  
+}
+
+.item{
+  border: 1px solid #eee;
+  padding: 5rem;
+}
