@@ -1,4 +1,4 @@
-const pattern = /[0-9]/;
+const pattern = /[a-z]/;
 
 // /[0-9]/
 const string = "hi guys 1";
