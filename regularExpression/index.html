@@ -1,15 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
   <title>Regular expression</title>
 </head>
+
 <body>
-  
-  <form action="">
-    <input type="text" name="" id="">
-  </form>
+
+  <div class="container ">
+    <div class="form-container">
+      <h1 class="text-center">Sign Up</h1>
+      <form action="">
+
+
+        <div class="mb-2">
+          <input class="input" type="text" id="username" placeholder="Enter your username">
+          <p id="username-error" class="error"></p>
+        </div>
+
+
+        <div class="mb-2">
+          <input class="input" type="email" id="email" placeholder="Enter your email">
+          <p id="email-error" class="error"></p>
+        </div>
+
+        <div class="mb-2">
+          <input class="input" type="password" id="password" placeholder="Enter your password">
+          <p id="password-error" class="error"></p>
+        </div>
+
+        <div class="mb-2">
+          <button class="btn">Sign in</button>
+        </div>
+    </div>
+
+    </form>
+  </div>
+
+
   <script src="app.js"></script>
 </body>
+
 </html>
