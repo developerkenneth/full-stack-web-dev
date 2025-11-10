@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john doe",
+      "school": "Oxford",
+      "phoneNumber": 1234567890
+    },
+    {
+      "id": 2,
+      "name": "Jane doe",
+      "school": "Alaxka univeristy",
+      "phoneNumber": 123456664330
+    },
+    {
+      "id": 3,
+      "name": "K. doe",
+      "school": "UNN",
+      "phoneNumber": 66774567890
+    }
+  ]
+}
