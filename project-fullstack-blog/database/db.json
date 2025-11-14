@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Digital Dreams Graduation",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis veritatis, quod quo est impedit ipsa nesciunt, error nobis laborum in commodi doloribus laudantium fugit blanditiis esse delectus itaque rerum aspernatur.",
+      "author": "Joshua",
+      "date": "12/10/2025"
+    },
+    {
+      "id": "2",
+      "title": "Holiday is coming",
+      "body": "This is the second psot /n ipsum dolor sit amet consectetur, adipisicing elit. Corporis veritatis, quod quo est impedit ipsa nesciunt, error nobis laborum in commodi doloribus laudantium fugit blanditiis esse delectus itaque rerum aspernatur.",
+      "author": "Favour",
+      "date": "12/10/2025"
+    },
+    {
+      "id": "3",
+      "title": "I no send",
+      "body": "This is the third post made in this database kindly read well",
+      "author": "Thank God",
+      "date": " 12/10/2025 "
+    },
+    {
+      "id": "4",
+      "title": "getting the best of programming",
+      "body": "getting the best of programming. to get the best of programming kini",
+      "author": "kenneth Otis",
+      "date": " 14/10/2025 "
+    },
+    {
+      "id": "5",
+      "title": "hd laflf fbfz",
+      "body": "jh  slflzl' ; ghg sf;hdsg efgo; veipfp ev efpiyhdpf dvdsofhsd f dodhslkuhd gfd  dgfod; hg; dk udlghds.g sdg;o dsg ;usd.g hods;gdsogfsdgfsd",
+      "author": "cxuhkhchkjxc",
+      "date": " 14/10/2025 "
+    },
+    {
+      "title": "edited post",
+      "body": "This is the post that was edited just now",
+      "author": "Akachukwu",
+      "date": " 14/10/2025 ",
+      "id": "6"
+    }
+  ]
+}
